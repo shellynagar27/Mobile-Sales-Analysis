@@ -94,7 +94,7 @@ The dataset provided included sales records for mobile phones in 2024 and covere
 I'm always open to feedback, collaborations, and new opportunities in the **Data & Analytics** domain.
 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shellynagar/)
-- 📧 [shelly.nagar@outlook.com] (shelly.nagar@outlook.com)
+- 📧 [shelly.nagar@outlook.com](shelly.nagar@outlook.com)
 - 🌐 [Portfolio Website](https://codebasics.io/portfolio/Shelly-Nagar)
 - [novypro profile](https://my.novypro.com/shelly-nagar)
 
