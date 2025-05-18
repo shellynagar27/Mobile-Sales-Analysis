@@ -11,7 +11,7 @@ This project was submitted as part of the **May 2024 #DataDNA Challenge** hosted
 - **Revenue breakdowns and monthly performance**
 
 - [LinkedIn Post](https://www.linkedin.com/posts/shellynagar_datadna-powerbi-dataanalytics-activity-7328852919359819776-4JsD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm_MdkBAINlDpBdpb0l7ExWMWsm7jLltdM)
-- [Live Dashboard]()
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDFlYzFkNDUtNDA5YS00NjJlLWI5MzEtYTdiYzU3MzlmODlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=7711ee1eee8733906d60)
 ---
 
 ## 📂 Dataset Details
